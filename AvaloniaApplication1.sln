@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33103.201
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaloniaApplication1", "AvaloniaApplication1\AvaloniaApplication1.csproj", "{634A43BA-4388-4F4F-B96C-B6C3766E63F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaloniaApplication1.Android", "AvaloniaApplication1.Android\AvaloniaApplication1.Android.csproj", "{758554CA-B3E1-43A1-A20B-A8D6EB97FF0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaloniaApplication1.Desktop", "AvaloniaApplication1.Desktop\AvaloniaApplication1.Desktop.csproj", "{A7D491B1-E812-439E-9CD7-31696778DEB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaloniaApplication1.iOS", "AvaloniaApplication1.iOS\AvaloniaApplication1.iOS.csproj", "{16D062A4-C649-4B60-87B0-B25504EFC9B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaloniaApplication1.Web", "AvaloniaApplication1.Web\AvaloniaApplication1.Web.csproj", "{F7030C20-64A7-449E-862E-DF1C845CD60F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{634A43BA-4388-4F4F-B96C-B6C3766E63F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{634A43BA-4388-4F4F-B96C-B6C3766E63F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{634A43BA-4388-4F4F-B96C-B6C3766E63F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{634A43BA-4388-4F4F-B96C-B6C3766E63F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{758554CA-B3E1-43A1-A20B-A8D6EB97FF0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{758554CA-B3E1-43A1-A20B-A8D6EB97FF0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{758554CA-B3E1-43A1-A20B-A8D6EB97FF0C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{758554CA-B3E1-43A1-A20B-A8D6EB97FF0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{758554CA-B3E1-43A1-A20B-A8D6EB97FF0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{758554CA-B3E1-43A1-A20B-A8D6EB97FF0C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{A7D491B1-E812-439E-9CD7-31696778DEB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7D491B1-E812-439E-9CD7-31696778DEB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7D491B1-E812-439E-9CD7-31696778DEB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7D491B1-E812-439E-9CD7-31696778DEB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16D062A4-C649-4B60-87B0-B25504EFC9B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16D062A4-C649-4B60-87B0-B25504EFC9B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16D062A4-C649-4B60-87B0-B25504EFC9B6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{16D062A4-C649-4B60-87B0-B25504EFC9B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16D062A4-C649-4B60-87B0-B25504EFC9B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16D062A4-C649-4B60-87B0-B25504EFC9B6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{F7030C20-64A7-449E-862E-DF1C845CD60F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7030C20-64A7-449E-862E-DF1C845CD60F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7030C20-64A7-449E-862E-DF1C845CD60F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7030C20-64A7-449E-862E-DF1C845CD60F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24E53143-63BF-46A6-953A-0220E0BAF8D1}
+	EndGlobalSection
+EndGlobal
